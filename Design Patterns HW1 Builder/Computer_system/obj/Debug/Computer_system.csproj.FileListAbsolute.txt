@@ -1,0 +1,7 @@
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\obj\Debug\Computer_system.csproj.AssemblyReference.cache
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\obj\Debug\Computer_system.csproj.CoreCompileInputs.cache
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\bin\Debug\Computer_system.exe.config
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\bin\Debug\Computer_system.exe
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\bin\Debug\Computer_system.pdb
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\obj\Debug\Computer_system.exe
+C:\Users\piqui\Documents\UP\6o semestre\Patrones de Diseño y Arquitectura de Software\Parcial 2\01Tarea\Computer_system\obj\Debug\Computer_system.pdb
