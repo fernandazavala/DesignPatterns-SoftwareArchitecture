@@ -1,0 +1,3 @@
+ID de la materia: 1
+ Calificaciones: 8 6 10 
+ Promedio8
